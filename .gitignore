@@ -12,3 +12,38 @@ _test/
 *.out
 *.test
 *.env
+# Binaries for programs and plugins
+*.exe
+*.dll
+*.so
+*.dylib
+
+# Output of the go coverage tool
+*.out
+
+# Dependency directories (remove the ones you don't use)
+vendor/
+.git/
+
+# Compiled Object files, Static and Dynamic libraries (remove the ones you don't use)
+*.o
+*.a
+
+# Output directories (remove the ones you don't use)
+/dist/
+/build/
+
+# Temporary files (remove the ones you don't use)
+*.tmp
+*.bak
+*.swp
+
+# macOS specific files/directories
+.DS_Store
+
+# JetBrains GoLand IDE files
+.idea/
+
+# Go test cache
+/.cache/
+

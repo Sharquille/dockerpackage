@@ -1,8 +1,6 @@
 package main
 
-import "yourapp/internal/grocery"
-
-func main() {
-    grocery.Initialize()
-    grocery.RunCLI()
-}
+//func main() {
+//  grocery.Initialize()
+//grocery.RunCLI()
+//}
